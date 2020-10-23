@@ -1,4 +1,5 @@
-# Hi, you've reached Israel's Git! \ You can reach me via e-mail: zemser@gmail.com
+# Hi, you've reached Israel's Git!   You can reach me via e-mail: zemser@gmail.com 
+
 :bowtie: **About me**:\
 \
 Graduated with a Bachelor of Science degree in Computer Science from the Ben-Gurion University.\
