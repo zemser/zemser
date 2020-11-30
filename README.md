@@ -11,7 +11,7 @@ Knowledge in Object oriented design, Multi- Threading and Functional programming
 Dabbled with Web Technologies including:
 - HTML, CSS, Bootstrap, JQuery and Ajax
 - Node.js and Express\
-Data Bases: MongoDB and SQL
+\Data Bases: MongoDB and SQL
 
 
 <!--
