@@ -8,9 +8,10 @@ Pursuing a Bachelor of Science degree in Computer Science in Ben-Gurion Universi
 \
 Experienced with Java | JavaScript | Python| C | Assembly x86\
 Knowledge in Object oriented design, Multi- Threading and Functional programming\
-Dabbled with Web Technologies including:\
+Dabbled with Web Technologies including:
 - HTML, CSS, Bootstrap, JQuery and Ajax
-- Node.js and Express\ Data Bases: MongoDB and SQL
+- Node.js and Express
+<br>Data Bases: MongoDB and SQL
 
 
 <!--
