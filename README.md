@@ -1,17 +1,17 @@
 # Hi, you've reached Israel's Git! <br/>  You can reach me via e-mail: zemser@gmail.com 
 :bowtie: **About me**:\
 \
-Graduated with a Bachelor of Science degree in Computer Science from the Ben-Gurion University.\
+Pursuing a Bachelor of Science degree in Computer Science in Ben-Gurion University.\
 :mag_right: I am seeking a full-time position in SW development
 
 :briefcase: Skills:\
 \
-Most experienced with Java\
-Also experienced with C, Python and JavaScript,\
+Experienced with Java | JavaScript | Python| C | Assembly x86\
+Knowledge in Object oriented design, Multi- Threading and Functional programming\
 Dabbled with Web Technologies including:
 - HTML, CSS, Bootstrap, JQuery and Ajax
-- Node.js
-- MongoDB
+- Node.js and Express
+Data Bases: MongoDB and SQL
 
 
 <!--
