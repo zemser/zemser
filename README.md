@@ -6,7 +6,7 @@ Pursuing a Bachelor of Science degree in Computer Science in Ben-Gurion Universi
 
 :briefcase: Skills:\
 \
-Experienced with Java | JavaScript | Python| C | Assembly x86\
+Experienced with Java | JavaScript | Python | C | Assembly x86\
 Frameworks: Spring, Node.js\
 Knowledge in Object oriented design, Multi- Threading and Functional programming\
 Data Bases: MongoDB and SQL\
