@@ -8,7 +8,7 @@ Skilled in React, Node.js, Python, AWS, and database management (SQL, MongoDB).
 :briefcase: Skills:\
 \
 Experienced with  TypeScript | Node.js | FastAPI | React \
-Knowledge in Object oriented design, Multi- Threading and Functional programming\
+Knowledge in Object oriented design, Multi- Threading and Functional programming \
 Data Bases: MongoDB and SQL\
 Dabbled with Web Technologies including:
 - React, Node.js and Express
