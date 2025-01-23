@@ -1,18 +1,19 @@
-# Hi, you've reached Israel's Git! <br/>  You can reach me via e-mail: zemser@gmail.com 
+# Hi, you've reached Izzy's Git! <br/>  You can reach me via e-mail: zemser@gmail.com 
 :bowtie: **About me**:\
 \
-Pursuing a Bachelor of Science degree in Computer Science in Ben-Gurion University.\
-:mag_right: I am seeking a full-time position in SW development
+Experienced Full Stack Developer with a demonstrated history of working with modern web technologies..\
+Skilled in React, Node.js, Python, AWS, and database management (MongoDB, SQL). 
+💻 Strong engineering professional with a B.Sc. in Computer Science from Ben-Gurion University.
 
 :briefcase: Skills:\
 \
-Experienced with React | JavaScript | Node.js | Java | C | Assembly x86\
-Frameworks: Spring, Node.js\
+Experienced with  TypeScript | Node.js | FastAPI | React \
 Knowledge in Object oriented design, Multi- Threading and Functional programming\
 Data Bases: MongoDB and SQL\
 Dabbled with Web Technologies including:
-- HTML, CSS, Bootstrap, JQuery and Ajax
 - React, Node.js and Express
+- FastAPI and SQLAlchemy
+- GitHub Actions, Jenkins, Elasticsearch, Terraform, Docker
 
 
 
