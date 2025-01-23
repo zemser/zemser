@@ -13,7 +13,7 @@ Data Bases: MongoDB and SQL\
 Dabbled with Web Technologies including:
 - React, Node.js and Express
 - FastAPI and SQLAlchemy
-- GitHub Actions, Jenkins, Elasticsearch, Terraform, Docker
+- GitHub Actions, Jenkins, Elasticsearch, Terraform, Docker, AWS
 
 
 
