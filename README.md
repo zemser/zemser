@@ -1,8 +1,8 @@
 # Hi, you've reached Izzy's Git! <br/>  You can reach me via e-mail: zemser@gmail.com 
 :bowtie: **About me**:\
 \
-Experienced Full Stack Developer with a demonstrated history of working with modern web technologies..\
-Skilled in React, Node.js, Python, AWS, and database management (MongoDB, SQL). 
+Experienced Software Developer with a demonstrated history of working with modern web technologies..\
+Skilled in React, Node.js, Python, AWS, and database management (SQL, MongoDB). 
 💻 Strong engineering professional with a B.Sc. in Computer Science from Ben-Gurion University.
 
 :briefcase: Skills:\
