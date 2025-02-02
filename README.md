@@ -11,7 +11,7 @@ Experienced with  TypeScript | Node.js | FastAPI | React \
 Knowledge in Object oriented design, Multi- Threading and Functional programming \
 Data Bases: MongoDB and SQL\
 Dabbled with Web Technologies including:
-- React, Node.js and Express
+- Node.js and React
 - FastAPI and SQLAlchemy
 - GitHub Actions, Jenkins, Elasticsearch, Terraform, Docker, AWS
 
