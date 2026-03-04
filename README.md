@@ -1,3 +1,11 @@
+# Hey, I’m Izzy 👋
+
+Software Engineer building scalable backend systems and clean, maintainable architectures.
+
+📫 zemser@gmail.com
+
+---
+
 ## 🧠 About Me
 
 B.Sc. in Computer Science from Ben-Gurion University.
